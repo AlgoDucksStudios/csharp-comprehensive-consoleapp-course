@@ -1,8 +1,0 @@
-D:\xampp\htdocs\Corp PersianImmortalStudios\Projects\Project RocketGett\ConsoleApp2\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
-D:\xampp\htdocs\Corp PersianImmortalStudios\Projects\Project RocketGett\ConsoleApp2\ConsoleApp3\bin\Debug\ConsoleApp3.exe
-D:\xampp\htdocs\Corp PersianImmortalStudios\Projects\Project RocketGett\ConsoleApp2\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
-D:\xampp\htdocs\Corp PersianImmortalStudios\Projects\Project RocketGett\ConsoleApp2\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
-D:\xampp\htdocs\Corp PersianImmortalStudios\Projects\Project RocketGett\ConsoleApp2\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
-D:\xampp\htdocs\Corp PersianImmortalStudios\Projects\Project RocketGett\ConsoleApp2\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
-D:\xampp\htdocs\Corp PersianImmortalStudios\Projects\Project RocketGett\ConsoleApp2\ConsoleApp3\obj\Debug\ConsoleApp3.exe
-D:\xampp\htdocs\Corp PersianImmortalStudios\Projects\Project RocketGett\ConsoleApp2\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
